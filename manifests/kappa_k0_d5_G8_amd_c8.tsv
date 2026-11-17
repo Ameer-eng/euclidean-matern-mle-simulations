@@ -1,0 +1,1 @@
+--d 5 --nu0 0.5 --G 8 --reps 0:10 --laws gauss,unif,mixnorm,bern --variants joint --family amd --cpus 8 --out results

@@ -1,0 +1,5 @@
+manifests/kappa_ksweep1_d3_G32_amd_c4.tsv	kappa_d3G32	4	4	45	1	matern_sim.kappa_task	--constraint=amd --exclude=c151406,c151407,c151408,c151409,c151410,c151411,c151412,c151413,c151414,c151415,c151416,c151417,c151418,c151601,c151602,c151603,c151604,c151605,c151606,c151607,c151608,c151609,c151610,c151611,c151612,c151613,c1516ood14,g130801,g130802,g130901,g130902,g130903,g171201,g171202,g171203
+manifests/kappa_ksweep1_d3_G32_amd_avx512_c4.tsv	kappa_d3G32	4	4	45	2	matern_sim.kappa_task	--constraint=amd&avx512
+manifests/kappa_ksweep1_d3_G40_amd_avx512_c4.tsv	kappa_d3G40	4	7	60	1	matern_sim.kappa_task	--constraint=amd&avx512
+manifests/kappa_ksweep1_d3_G46_amd_c4.tsv	kappa_d3G46	4	11	30	1	matern_sim.kappa_task	--constraint=amd --exclude=c151406,c151407,c151408,c151409,c151410,c151411,c151412,c151413,c151414,c151415,c151416,c151417,c151418,c151601,c151602,c151603,c151604,c151605,c151606,c151607,c151608,c151609,c151610,c151611,c151612,c151613,c1516ood14,g130801,g130802,g130901,g130902,g130903,g171201,g171202,g171203
+manifests/kappa_ksweep1_d4_G13_amd_avx512_c4.tsv	kappa_d4G13	4	4	30	1	matern_sim.kappa_task	--constraint=amd&avx512

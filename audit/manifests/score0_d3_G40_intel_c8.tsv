@@ -1,0 +1,2 @@
+--d 3 --nu0 0.5 --G 40 --reps 0:257 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 8 --batch 800 --out results --save audit/out/score0
+--d 3 --nu0 1.5 --G 40 --reps 242:400 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 8 --batch 800 --out results --save audit/out/score0

@@ -1,0 +1,5 @@
+--d 4 --nu0 0.5 --G 18 --reps 40:60 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 0.5 --G 18 --reps 60:80 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 0.5 --G 18 --reps 180:200 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 0.5 --G 18 --reps 280:300 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 1.5 --G 18 --reps 340:360 --laws gauss,unif,mixnorm,bern --variants joint --out results

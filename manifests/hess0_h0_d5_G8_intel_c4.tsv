@@ -1,0 +1,4 @@
+--d 5 --nu0 0.5 --G 8 --reps 10:210 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 4 --batch 800 --out results
+--d 5 --nu0 0.5 --G 8 --reps 210:400 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 4 --batch 800 --out results
+--d 5 --nu0 1.5 --G 8 --reps 20:220 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 4 --batch 800 --out results
+--d 5 --nu0 1.5 --G 8 --reps 220:400 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 4 --batch 800 --out results

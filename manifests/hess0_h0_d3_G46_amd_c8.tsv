@@ -1,0 +1,2 @@
+--d 3 --nu0 0.5 --G 46 --reps 48:400 --laws gauss,unif,mixnorm,bern --variants joint --family amd --cpus 8 --batch 800 --out results
+--d 3 --nu0 1.5 --G 46 --reps 12:296 --laws gauss,unif,mixnorm,bern --variants joint --family amd --cpus 8 --batch 800 --out results

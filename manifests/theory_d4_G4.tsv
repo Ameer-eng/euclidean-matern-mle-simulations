@@ -1,0 +1,2 @@
+--d 4 --nu0 0.5 --G 4 --theory-only --out results
+--d 4 --nu0 1.5 --G 4 --theory-only --out results

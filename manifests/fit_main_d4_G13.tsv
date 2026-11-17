@@ -1,0 +1,4 @@
+--d 4 --nu0 0.5 --G 13 --reps 0:223 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 0.5 --G 13 --reps 223:400 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 1.5 --G 13 --reps 0:223 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 4 --nu0 1.5 --G 13 --reps 223:400 --laws gauss,unif,mixnorm,bern --variants joint --out results

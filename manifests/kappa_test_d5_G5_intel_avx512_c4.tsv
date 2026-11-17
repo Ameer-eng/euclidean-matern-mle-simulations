@@ -1,0 +1,1 @@
+--d 5 --nu0 0.5 --G 5 --reps 0:12 --laws gauss,unif,mixnorm,bern --variants joint --family intel_avx512 --cpus 4 --out results

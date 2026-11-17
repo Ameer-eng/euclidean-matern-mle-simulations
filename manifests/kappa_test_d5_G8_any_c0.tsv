@@ -1,0 +1,2 @@
+--d 5 --nu0 0.5 --G 8 --reps 213:215 --laws gauss,unif,mixnorm,bern --variants joint --family any --cpus 0 --out results
+--d 5 --nu0 1.5 --G 8 --reps 253:256 --laws gauss,unif,mixnorm,bern --variants joint --family any --cpus 0 --out results

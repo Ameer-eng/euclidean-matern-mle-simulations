@@ -1,0 +1,4 @@
+--d 5 --nu0 0.5 --G 10 --reps 0:200 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --batch 800 --out results --save audit/out/score0
+--d 5 --nu0 0.5 --G 10 --reps 200:400 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --batch 800 --out results --save audit/out/score0
+--d 5 --nu0 1.5 --G 10 --reps 0:200 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --batch 800 --out results --save audit/out/score0
+--d 5 --nu0 1.5 --G 10 --reps 200:400 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --batch 800 --out results --save audit/out/score0

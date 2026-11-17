@@ -1,0 +1,1 @@
+--d 4 --nu0 0.5 --G 3 --reps 0:400 --laws gauss,unif,mixnorm,bern --variants joint --family amd --cpus 1 --batch 1600 --out results

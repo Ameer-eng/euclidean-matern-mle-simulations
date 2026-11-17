@@ -1,0 +1,10 @@
+The simulation outputs in this repository (results/, audit/out/) and in its data
+archive (the inputs archive matern_inputs_<DATE>.tar.gz and replicates.csv), and the
+figures (paper/figures/), are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+
+Copyright (c) 2026 Ameer Qaqish, Sudipto Banerjee, and Didong Li.
+Please cite the article listed in CITATION.cff when using them.
+
+The code (matern_sim/, audit/*.py and *.sh, repro/, slurm/, manifests/, tests/) is
+licensed under the MIT License in LICENSE.

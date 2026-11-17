@@ -1,0 +1,1 @@
+--d 3 --nu0 0.5 --G 32 --reps 33:352 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 4 --out results

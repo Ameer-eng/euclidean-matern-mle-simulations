@@ -1,0 +1,1 @@
+--d 4 --nu0 0.5 --G 10 --reps 0:15 --laws gauss,unif,mixnorm,bern --variants joint --family amd --cpus 4 --batch 800 --out results --save audit/out/score0

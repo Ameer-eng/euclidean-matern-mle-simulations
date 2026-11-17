@@ -1,0 +1,5 @@
+--group A --out audit/out
+--group B --out audit/out
+--group C --out audit/out
+--group D --out audit/out
+--group E --out audit/out

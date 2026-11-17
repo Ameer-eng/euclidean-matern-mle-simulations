@@ -1,0 +1,1 @@
+--d 4 --nu0 0.5 --G 18 --reps 0:371 --laws gauss,unif,mixnorm,bern --variants joint --family intel --cpus 8 --out results

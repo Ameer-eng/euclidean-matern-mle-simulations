@@ -1,0 +1,2 @@
+--d 4 --nu0 0.5 --G 8 --reps 0:3 --laws gauss,unif,mixnorm,bern --variants joint --family intel_avx512 --cpus 4 --out results
+--d 4 --nu0 1.5 --G 8 --reps 0:23 --laws gauss,unif,mixnorm,bern --variants joint --family intel_avx512 --cpus 4 --out results

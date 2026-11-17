@@ -1,0 +1,6 @@
+manifests/fit_sweep1_d3_G32.tsv	fit_d3G32	4	4	555	13
+manifests/fit_sweep1_d3_G40.tsv	fit_d3G40	4	6	540	37
+manifests/fit_sweep1_d3_G46.tsv	fit_d3G46	4	10	570	33
+manifests/fit_sweep1_d4_G10.tsv	fit_d4G10	4	4	195	1
+manifests/fit_sweep1_d4_G13.tsv	fit_d4G13	4	4	570	4
+manifests/fit_sweep1_d4_G18.tsv	fit_d4G18	4	4	555	5

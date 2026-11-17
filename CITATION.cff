@@ -1,0 +1,34 @@
+# Before release, add (uncommented, at the top level):
+#   date-released: "YYYY-MM-DD"
+#   repository-code: "https://github.com/<owner>/<repo>"
+#   identifiers:
+#     - type: doi
+#       value: "<archive DOI>"
+# and, under preferred-citation, the arXiv or journal url/doi when available.
+cff-version: 1.2.0
+message: "If you use this code or these simulation outputs, please cite the article below."
+title: "Simulation code and outputs for 'Sharp Asymptotic Theory of Maximum Likelihood Estimation for Gaussian Processes with a Matérn Kernel'"
+type: software
+version: "2026-11-16"
+license: MIT
+authors:
+  - family-names: Qaqish
+    given-names: Ameer
+    affiliation: "Department of Biostatistics, University of North Carolina at Chapel Hill"
+  - family-names: Banerjee
+    given-names: Sudipto
+    affiliation: "Department of Biostatistics, University of California, Los Angeles"
+  - family-names: Li
+    given-names: Didong
+    affiliation: "Department of Biostatistics, University of North Carolina at Chapel Hill"
+preferred-citation:
+  type: article
+  title: "Sharp Asymptotic Theory of Maximum Likelihood Estimation for Gaussian Processes with a Matérn Kernel"
+  authors:
+    - family-names: Qaqish
+      given-names: Ameer
+    - family-names: Banerjee
+      given-names: Sudipto
+    - family-names: Li
+      given-names: Didong
+  year: 2026

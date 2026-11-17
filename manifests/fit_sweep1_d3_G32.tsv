@@ -1,0 +1,13 @@
+--d 3 --nu0 0.5 --G 32 --reps 0:52 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 0.5 --G 32 --reps 52:104 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 0.5 --G 32 --reps 104:156 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 0.5 --G 32 --reps 156:208 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 0.5 --G 32 --reps 260:312 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 0.5 --G 32 --reps 312:364 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 0:52 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 52:104 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 156:208 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 208:260 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 260:312 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 312:364 --laws gauss,unif,mixnorm,bern --variants joint --out results
+--d 3 --nu0 1.5 --G 32 --reps 364:400 --laws gauss,unif,mixnorm,bern --variants joint --out results

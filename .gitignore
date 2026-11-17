@@ -1,0 +1,31 @@
+# Python environment
+.venv
+__pycache__/
+*.pyc
+repro/pylib/
+
+# Run-time outputs. The per-fit outputs and replicates.csv are in the data archive
+# (README §7); only the summaries and two frozen Figure E1 references are tracked.
+logs/
+results/*
+!results/summary/
+results/summary/replicates.csv
+audit/out/*
+!audit/out/appendixE/
+audit/out/appendixE/*
+!audit/out/appendixE/fig_e1_arrays_before_relabel.npz
+!audit/out/appendixE/fig_e1_texts_before_relabel.json
+
+# Regeneration outputs and downloaded archives
+repro/regen*/
+repro/bundle_*/
+repro/inputs_*/
+matern_inputs_*.tar.gz
+matern_inputs_*.files.txt
+inputs_SHA256SUMS.txt.gz
+/SHA256SUMS
+dist/
+
+# Manuscript sources are not part of this repository
+paper/*
+!paper/figures/

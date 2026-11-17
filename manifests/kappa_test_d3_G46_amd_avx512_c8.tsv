@@ -1,0 +1,5 @@
+--d 3 --nu0 0.5 --G 46 --reps 0:105 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --out results
+--d 3 --nu0 0.5 --G 46 --reps 105:211 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --out results
+--d 3 --nu0 0.5 --G 46 --reps 211:366 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --out results
+--d 3 --nu0 0.5 --G 46 --reps 368:396 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --out results
+--d 3 --nu0 1.5 --G 46 --reps 0:230 --laws gauss,unif,mixnorm,bern --variants joint --family amd_avx512 --cpus 8 --out results
