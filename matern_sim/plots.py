@@ -430,7 +430,7 @@ def fig_se_dim(D, d, path, png=None):
                                       for ln in ax.get_lines()
                                       if ln.get_marker() not in (None, "None", "")]
         axes[0, 0].set_ylabel("coverage (%)")
-        axes[1, 0].set_ylabel("robust SD of error / SE")
+        axes[1, 0].set_ylabel("Median |error/SE| / 0.67449")
         axes[2, 0].set_ylabel("invalid variance (%)")
         hs, ls_ = [], []
         for m in ("fisher", "hess", "fisher0", "hess0"):
